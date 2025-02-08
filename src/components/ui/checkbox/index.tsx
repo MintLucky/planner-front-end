@@ -1,5 +1,3 @@
-import React from "react";
-
 const Checkbox = (props: {
   id?: string;
   extra?: string;

@@ -1,6 +1,6 @@
 ## The Front-End part of the Planner project
 
-## Tech stack: ReactJS, NextJS, Tailwind, Tanstack React-Query, TypeScript
+## Tech stack: ReactJS, NextJS, Tailwind, Tanstack React-Query, TypeScript, DND
 
 
 
